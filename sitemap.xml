@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://demo.gethugothemes.com/enov/site/categories/</loc>
-    <lastmod>2024-08-15T00:00:00-04:00</lastmod>
+    <loc>https://demo.gethugothemes.com/enov/site/about/</loc>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://demo.gethugothemes.com/enov/site/</loc>
+    <lastmod>2024-10-13T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/enov/site/categories/</loc>
     <lastmod>2024-08-15T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://demo.gethugothemes.com/enov/site/tags/flight-control/</loc>
@@ -130,9 +133,6 @@
   </url><url>
     <loc>https://demo.gethugothemes.com/enov/site/blog/post.16/</loc>
     <lastmod>2023-09-01T00:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://demo.gethugothemes.com/enov/site/about/</loc>
-    <lastmod>2019-09-16T10:30:13+06:00</lastmod>
   </url><url>
     <loc>https://demo.gethugothemes.com/enov/site/contact/</loc>
     <lastmod>2019-09-16T10:30:13+06:00</lastmod>
